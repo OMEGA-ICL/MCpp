@@ -1,0 +1,6 @@
+<map id="mc::CModel::get_bndmon" name="mc::CModel::get_bndmon">
+<area shape="rect" id="node2" href="$group__CHEBYSHEV.html#gabc133b1d3db01f56c94318a3fe479c11" title="Get Chebyshev basis functions in U arithmetic for variable array X " alt="" coords="225,5,383,32"/>
+<area shape="rect" id="node3" href="$group__POLYMOD.html#gae008f258227063599042d2f376b80014" title="Total number of monomial terms in polynomial model. " alt="" coords="431,81,580,108"/>
+<area shape="rect" id="node5" href="$group__POLYMOD.html#gacd22cf8c57ec2cc43eec597c8d725e10" title="Order of polynomial model environment. " alt="" coords="233,107,375,133"/>
+<area shape="rect" id="node4" href="$group__POLYMOD.html#ga0ac1099d95439bb0146589778b8e407d" title="Const pointer to array of size nmon()*nvar() with variable exponents on each monomial term..." alt="" coords="628,81,791,108"/>
+</map>

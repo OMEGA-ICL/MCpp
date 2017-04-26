@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmc_1_1PolyVar.html" title="C++ base class for the computation of polynomial models for factorable functions: Variable..." alt="" coords="5,31,132,57"/>
+<area shape="rect" id="node2" href="$classmc_1_1CVar.html" title="C++ class for Chebyshev model computation of factorable function &#45; Chebyshev model propagation..." alt="" coords="180,5,291,32"/>
+<area shape="rect" id="node3" href="$classmc_1_1TVar.html" title="C++ class for Taylor model computation of factorable function &#45; Taylor model propagation. " alt="" coords="181,56,289,83"/>
+</map>

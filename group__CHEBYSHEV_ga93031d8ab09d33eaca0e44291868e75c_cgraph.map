@@ -1,0 +1,33 @@
+<map id="mc::CVar::scale" name="mc::CVar::scale">
+<area shape="rect" id="node2" href="$classmc_1_1PolyVar.html#a323a61e2722fb904d199ddbbe3c45a4d" title="Center remainder error term _bndrem " alt="" coords="172,349,317,376"/>
+<area shape="rect" id="node4" href="$group__POLYMOD.html#gae008f258227063599042d2f376b80014" title="Total number of monomial terms in polynomial model. " alt="" coords="1232,382,1381,409"/>
+<area shape="rect" id="node6" href="$classmc_1_1PolyVar.html#a1bb487dd5ad72120c97d26fe2e7d6fdf" title="Const pointer to array of size nvar of variable exponents in monomial term imon of polynomial model..." alt="" coords="375,9,530,36"/>
+<area shape="rect" id="node12" href="$group__POLYMOD.html#gacd22cf8c57ec2cc43eec597c8d725e10" title="Order of polynomial model environment. " alt="" coords="1037,484,1179,510"/>
+<area shape="rect" id="node14" href="$classmc_1_1PolyVar.html#ad10df76e434379acde0eddc383475004" title="Set polynomial bound in variable as bndpol " alt="" coords="367,889,539,916"/>
+<area shape="rect" id="node15" href="$classmc_1_1PolyVar.html#a4855d541b9eee14aab86c12faee98263" title="Unset variable bound in underlying T arithmetic. " alt="" coords="587,838,764,865"/>
+<area shape="rect" id="node16" href="$classmc_1_1PolyVar.html#a67f08018e1b389b636f87fe15ea2597e" title="Set variable bound in unerlying T arithmetic. " alt="" coords="817,838,979,865"/>
+<area shape="rect" id="node17" href="$classmc_1_1PolyVar.html#af71905af76f1dfc77ba31f17ebe4f107" title="Unset polynomial bound in variable. " alt="" coords="174,940,315,982"/>
+<area shape="rect" id="node18" href="$group__POLYMOD.html#ga88d999f8065c1cf0eba2df32b8acc927" title="Shortcut to mc::PolyVar::bound. " alt="" coords="189,1006,300,1033"/>
+<area shape="rect" id="node19" href="$group__CHEBYSHEV.html#ga50848361b9913d3ff258baee192e533a" title="Shortcut to mc::CVar::center. " alt="" coords="197,484,293,510"/>
+<area shape="rect" id="node24" href="$group__POLYMOD.html#gadd540bfb93e22c4775ed145547eb1829" title="Get set of monomial indices in sparse representation. " alt="" coords="171,1057,319,1084"/>
+<area shape="rect" id="node25" href="$classmc_1_1PolyVar.html#a1ab0b143690a6a4e94c5b3b0cc5e9d75" title="Total number of monomial terms in polynomial model. " alt="" coords="1041,60,1175,86"/>
+<area shape="rect" id="node26" href="$classmc_1_1PolyVar.html#a5dc3fe432463c11ff03656256c29f4ef" title="Order of polynomial model. " alt="" coords="181,585,308,612"/>
+<area shape="rect" id="node27" href="$group__POLYMOD.html#ga6f765ab92fce880185a55663abecc216" title="Number of variables in polynomial model environment. " alt="" coords="381,636,524,662"/>
+<area shape="rect" id="node28" href="$classmc_1_1PolyVar.html#a7106b394d71b3a932d99198e879da882" title="Number of variables in polynomial model. " alt="" coords="181,686,308,713"/>
+<area shape="rect" id="node29" href="$group__CHEBYSHEV.html#gad04ddf519c68c81db8ba454bb1efc7c1" title="Shortcut to mc::CVar::polynomial. " alt="" coords="197,1108,292,1134"/>
+<area shape="rect" id="node30" href="$group__POLYMOD.html#ga16e1562bf4e0ee4badfa9133f1d54cfc" title="Shortcut to mc::PolyVar::remainder. " alt="" coords="619,737,731,764"/>
+<area shape="rect" id="node32" href="$group__CHEBYSHEV.html#gade4d4d36c773cc33c6232dbc40b0f49f" title="Set Chebyshev variable with index ix (starting from 0) and bounded by X " alt="" coords="193,1158,297,1185"/>
+<area shape="rect" id="node3" href="$group__POLYMOD.html#gadaa388a93ad460457f71835983792121" title="Get pair of size of, and const pointer to, array of (possibly scaled) monomial coefficients. " alt="" coords="1032,305,1184,332"/>
+<area shape="rect" id="node5" href="$group__POLYMOD.html#ga0ac1099d95439bb0146589778b8e407d" title="Const pointer to array of size nmon()*nvar() with variable exponents on each monomial term..." alt="" coords="1429,382,1592,409"/>
+<area shape="rect" id="node7" href="$classmc_1_1PolyModel.html#a15423d8efea2c4924641580ee36820c4" title="Get index of monomial term with variable exponents iexp in 1,...,_nmon " alt="" coords="605,123,746,164"/>
+<area shape="rect" id="node8" href="$classmc_1_1PolyModel.html#a6362039b647991752933fe09bfc283f4" title="Get binomial coefficient . " alt="" coords="1235,132,1378,174"/>
+<area shape="rect" id="node11" href="$classmc_1_1PolyModel.html#ab619395f4760650f630e04942331cd3a" title="Populate array _binom with binomial coefficients up to order nord " alt="" coords="827,162,969,203"/>
+<area shape="rect" id="node9" href="$classmc_1_1PolyModel.html#af00b97649f6bdb9207942a9292b19fb5" title="Compute bounds for all terms of degrees iord=0,...,_nord given the Chebyshev basis function in bndbas..." alt="" coords="1439,132,1582,174"/>
+<area shape="rect" id="node10" href="$classmc_1_1PolyModel.html#acd84a4289b9070468208402fd803821d" title="Polynomial range bounder &#45; naive approach. " alt="" coords="1640,132,1823,174"/>
+<area shape="rect" id="node13" href="$classmc_1_1PolyModel.html#afdaefcb62551f3e6eb14dc115d221c42" title="Extend array _binom with binomial coefficients up to order nord " alt="" coords="1037,162,1179,203"/>
+<area shape="rect" id="node20" href="$group__CHEBYSHEV.html#ga0394aad8d5399e363b4b65e569e2b1a2" title="Lift Chebyshev model by nx extra dimensions with variable bounds X " alt="" coords="395,382,510,409"/>
+<area shape="rect" id="node21" href="$classmc_1_1CModel_1_1Exceptions.html#a7418e1be040ed3e580d7a8be36822c31" title="Constructor for error ierr " alt="" coords="592,316,759,358"/>
+<area shape="rect" id="node22" href="$group__CHEBYSHEV.html#gabc133b1d3db01f56c94318a3fe479c11" title="Get Chebyshev basis functions in U arithmetic for variable array X " alt="" coords="597,382,754,409"/>
+<area shape="rect" id="node23" href="$group__CHEBYSHEV.html#ga4cc3847c03e3ecdb44dc6e999e9d9060" title="Get Chebyshev monomial bounds in U arithmetic for variable array X " alt="" coords="812,382,984,409"/>
+<area shape="rect" id="node31" href="$classmc_1_1PolyVar.html#ad70ad565964f6cf0d05ee1186c60384d" title="Initialize private/protected members of variable. " alt="" coords="831,737,965,764"/>
+</map>
