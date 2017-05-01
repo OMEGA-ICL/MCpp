@@ -36,7 +36,7 @@ var group__SCHEBYSHEV =
       [ "MIXED_IA", "structmc_1_1SCModel_1_1Options.html#a65b3b8754874ab5f47e5a860543296c0", null ],
       [ "REF_POLY", "structmc_1_1SCModel_1_1Options.html#adcb7532a9e2b216f6dbe848b82cef175", null ]
     ] ],
-    [ "bndvar", "group__SCHEBYSHEV.html#ga48ac3fe48c1add8bacbc1031ec950d98", null ],
+    [ "bndvar", "group__SCHEBYSHEV.html#ga828d6c6ee1ada70f90bfe04cda3f5cbd", null ],
     [ "get_basis", "group__SCHEBYSHEV.html#gab977b9c5cae9c3bdb1a82cff8b7906f8", null ],
     [ "get_bndmon", "group__SCHEBYSHEV.html#ga5cdd768b518dd3c373c5e5657a0622a1", null ],
     [ "maxord", "group__SCHEBYSHEV.html#ga22d95a4ddf5c0eb39b245fe5a78f1f04", null ],

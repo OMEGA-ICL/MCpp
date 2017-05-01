@@ -124,10 +124,10 @@ unsigned&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="
 unsigned&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__SCHEBYSHEV.html#ga22d95a4ddf5c0eb39b245fe5a78f1f04">maxord</a> () const </td></tr>
 <tr class="memdesc:ga22d95a4ddf5c0eb39b245fe5a78f1f04"><td class="mdescLeft">&#160;</td><td class="mdescRight">Maximal order of polynomial model. <br /></td></tr>
 <tr class="separator:ga22d95a4ddf5c0eb39b245fe5a78f1f04"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga48ac3fe48c1add8bacbc1031ec950d98"><td class="memItemLeft" align="right" valign="top">
-const std::vector&lt; double &gt; &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__SCHEBYSHEV.html#ga48ac3fe48c1add8bacbc1031ec950d98">bndvar</a> () const </td></tr>
-<tr class="memdesc:ga48ac3fe48c1add8bacbc1031ec950d98"><td class="mdescLeft">&#160;</td><td class="mdescRight">Const reference to the bounds of the model variables. <br /></td></tr>
-<tr class="separator:ga48ac3fe48c1add8bacbc1031ec950d98"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga828d6c6ee1ada70f90bfe04cda3f5cbd"><td class="memItemLeft" align="right" valign="top">
+const std::vector&lt; T &gt; &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__SCHEBYSHEV.html#ga828d6c6ee1ada70f90bfe04cda3f5cbd">bndvar</a> () const </td></tr>
+<tr class="memdesc:ga828d6c6ee1ada70f90bfe04cda3f5cbd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Const reference to the bounds of the model variables. <br /></td></tr>
+<tr class="separator:ga828d6c6ee1ada70f90bfe04cda3f5cbd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:gae77c4acceb66159a1d661c39a5f925c6"><td class="memItemLeft" align="right" valign="top">
 const std::vector&lt; double &gt; &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__SCHEBYSHEV.html#gae77c4acceb66159a1d661c39a5f925c6">refvar</a> () const </td></tr>
 <tr class="memdesc:gae77c4acceb66159a1d661c39a5f925c6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Const reference to reference points for the model variables. <br /></td></tr>
@@ -138,12 +138,12 @@ const std::vector&lt; double &gt; &amp;&#160;</td><td class="memItemRight" valig
 <tr class="separator:ga3f9c1a3a370eaaa1f5c64b0e293a0e04"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:gab977b9c5cae9c3bdb1a82cff8b7906f8"><td class="memTemplParams" colspan="2">
 template&lt;typename U &gt; </td></tr>
-<tr class="memitem:gab977b9c5cae9c3bdb1a82cff8b7906f8"><td class="memTemplItemLeft" align="right" valign="top">U **&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="group__SCHEBYSHEV.html#gab977b9c5cae9c3bdb1a82cff8b7906f8">get_basis</a> (const unsigned <a class="el" href="group__SCHEBYSHEV.html#ga22d95a4ddf5c0eb39b245fe5a78f1f04">maxord</a>, const U *<a class="el" href="group__SCHEBYSHEV.html#ga48ac3fe48c1add8bacbc1031ec950d98">bndvar</a>, const bool scaled=false) const </td></tr>
+<tr class="memitem:gab977b9c5cae9c3bdb1a82cff8b7906f8"><td class="memTemplItemLeft" align="right" valign="top">U **&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="group__SCHEBYSHEV.html#gab977b9c5cae9c3bdb1a82cff8b7906f8">get_basis</a> (const unsigned <a class="el" href="group__SCHEBYSHEV.html#ga22d95a4ddf5c0eb39b245fe5a78f1f04">maxord</a>, const U *<a class="el" href="group__SCHEBYSHEV.html#ga828d6c6ee1ada70f90bfe04cda3f5cbd">bndvar</a>, const bool scaled=false) const </td></tr>
 <tr class="memdesc:gab977b9c5cae9c3bdb1a82cff8b7906f8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get Chebyshev basis functions in U arithmetic for variable array X <br /></td></tr>
 <tr class="separator:gab977b9c5cae9c3bdb1a82cff8b7906f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga5cdd768b518dd3c373c5e5657a0622a1"><td class="memTemplParams" colspan="2">
 template&lt;typename U &gt; </td></tr>
-<tr class="memitem:ga5cdd768b518dd3c373c5e5657a0622a1"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="group__SCHEBYSHEV.html#ga5cdd768b518dd3c373c5e5657a0622a1">get_bndmon</a> (std::map&lt; t_expmon, U &gt; &amp;bndmon, const U *<a class="el" href="group__SCHEBYSHEV.html#ga48ac3fe48c1add8bacbc1031ec950d98">bndvar</a>, const bool scaled=false) const </td></tr>
+<tr class="memitem:ga5cdd768b518dd3c373c5e5657a0622a1"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="group__SCHEBYSHEV.html#ga5cdd768b518dd3c373c5e5657a0622a1">get_bndmon</a> (std::map&lt; t_expmon, U &gt; &amp;bndmon, const U *<a class="el" href="group__SCHEBYSHEV.html#ga828d6c6ee1ada70f90bfe04cda3f5cbd">bndvar</a>, const bool scaled=false) const </td></tr>
 <tr class="memdesc:ga5cdd768b518dd3c373c5e5657a0622a1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get Chebyshev monomial bounds in U arithmetic for variable array X and monomial indexes in ndxmon <br /></td></tr>
 <tr class="separator:ga5cdd768b518dd3c373c5e5657a0622a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -203,7 +203,7 @@ class mc::SCModel&lt; T &gt;</h3>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><b>mc</b></li><li class="navelem"><a class="el" href="classmc_1_1SCModel.html">SCModel</a></li>
-    <li class="footer">Generated on Wed Apr 26 2017 08:37:18 for MC++ by
+    <li class="footer">Generated on Mon May 1 2017 01:17:05 for MC++ by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.11 </li>
   </ul>

@@ -1,5 +1,8 @@
 var NAVTREEINDEX6 =
 {
+"page_MCCORMICK.html#sec_MCCORMICK_use":[4,0],
+"page_MCCORMICK.html#sec_MC_err":[4,5],
+"page_MCCORMICK.html#sec_MC_refs":[4,6],
 "page_POLYHEDRAL.html":[9],
 "page_POLYHEDRAL.html#sec_POLIMG_COMP":[9,1],
 "page_POLYHEDRAL.html#sec_POLIMG_ERR":[9,3],

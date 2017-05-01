@@ -5,7 +5,7 @@ var classmc_1_1SCModel =
     [ "_resize", "classmc_1_1SCModel.html#a36d03fa8bb24bd21ddb80eee4ca3435c", null ],
     [ "_resize_coefinterp", "classmc_1_1SCModel.html#ace8e45e125989e2bd87b17e4b98f4ee4", null ],
     [ "_set", "classmc_1_1SCModel.html#ac7a6e91c9678a5787310ccd05c739957", null ],
-    [ "bndvar", "group__SCHEBYSHEV.html#ga48ac3fe48c1add8bacbc1031ec950d98", null ],
+    [ "bndvar", "group__SCHEBYSHEV.html#ga828d6c6ee1ada70f90bfe04cda3f5cbd", null ],
     [ "get_basis", "group__SCHEBYSHEV.html#gab977b9c5cae9c3bdb1a82cff8b7906f8", null ],
     [ "get_bndmon", "group__SCHEBYSHEV.html#ga5cdd768b518dd3c373c5e5657a0622a1", null ],
     [ "maxord", "group__SCHEBYSHEV.html#ga22d95a4ddf5c0eb39b245fe5a78f1f04", null ],

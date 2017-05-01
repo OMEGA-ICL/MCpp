@@ -1,5 +1,8 @@
 var NAVTREEINDEX2 =
 {
+"classmc_1_1PolyModel.html#ad5848a9df4d9565d59663e63b329b8e7":[12,0,1,45,12],
+"classmc_1_1PolyModel.html#af00b97649f6bdb9207942a9292b19fb5":[12,0,1,45,6],
+"classmc_1_1PolyModel.html#af73900e6aa1d710df4ae636f096e2bf0":[12,0,1,45,34],
 "classmc_1_1PolyModel.html#afdaefcb62551f3e6eb14dc115d221c42":[12,0,1,45,2],
 "classmc_1_1PolyModel_1_1Exceptions.html":[11,6,0],
 "classmc_1_1PolyModel_1_1Exceptions.html#a230f729e135bae8345362dd000505e31":[11,6,0,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX2 =
 "functions_e.html":[12,3,0,5],
 "functions_enum.html":[12,3,4],
 "functions_eval.html":[12,3,5],
-"functions_f.html":[12,3,0,6],
-"functions_func.html":[12,3,1],
-"functions_func.html":[12,3,1,0],
-"functions_func_0x7e.html":[12,3,1,22]
+"functions_f.html":[12,3,0,6]
 };
